@@ -1,0 +1,51 @@
+cod_car,name_model,date_model,color_model,value_model					
+FRT548,TeslaModelS,2020-02-14,rojo,1291081                                         
+JKL469,TeslaModelX,2021-07-24,amarillo,1248005                                     
+XGB257,TeslaModel3,2019-05-27,azul,1290454                                         
+QWE810,ModelAudiA8,2019-11-19,verde,1015557                                        
+DBC739,AudiQ7,2022-09-20,rosa,1347956                                              
+MNP691,AudiQ8,2020-04-08,naranja,1083425                                           
+SDF143,AudietronGT,2021-08-19,negro,816836                                         
+UIO256,BMW7Series,2022-03-31,blanco,614898                                         
+VBN782,BMWX5,2020-10-12,morado,1027303                                             
+ZXC467,BMWX7,2019-06-20,gris,911628                                                
+RTY934,BMWi3,2022-01-07,turquesa,1078208                                           
+JHG506,Mercedes-Benz-Class,2020-09-05,dorado,1027760                               
+QAZ147,Mercedes-Benz-GLE,2020-12-24,plateado,863203                                
+MNB276,Mercedes-Benz-GLS,2021-03-02,marron,1031546                                 
+YUI935,Mercedes-BenzEQS,2019-10-14,beige,660917                                    
+PLO768,PorscheTaycan,2022-06-08,fucsia,897021                                      
+ASD243,PorschePanamera,2020-05-08,lavanda,1446002                                  
+GFD851,PorscheCayenne,2021-12-11,verde lima,1339756                                
+KJH369,PorscheMacan,2019-08-19,azul marino,1005676                                 
+HGF529,FordMustangMach-E,2022-04-17,celeste,880902                                 
+LKJ307,FordF-150Lightning,2021-11-16,crema,967833                                  
+QWE769,Chevrolet BoltEV,2020-02-10,verde oliva,1375297                              
+NHB543,Chevrolet CorvetteStingray,2019-06-20,marfil,870928                          
+PLO329,ChevroletCamaro,2021-03-23,azulclaro,1308419                                
+ZXC187,DodgeChallenger,2022-12-03,rosa claro,1406581                               
+ASD746,DodgeCharger,2020-09-15,verde oscuro,1378575                           
+FGH982,JeepWrangler,2021-07-07,rojo curo,1317570
+KJH605,JeepGrandCherokee,2022-02-18,gris oscuro,764720                        
+LKJ496,ToyotaCamry,2019-11-04,amarillo mostaza,839279                              
+QAZ873,ToyotaCorolla,2020-08-21,rosa oscuro,1142689                                
+UIO468,ToyotaRAV4,2021-05-13,salmon,946551                                         
+VBN956,ToyotaHighlander,2022-12-01,verde menta,1068896                             
+GFD314,Honda Civic,2019-03-19,rosa pastel,893579                                   
+HGF980,Honda Accord,2019-10-25,dorado rosa,1329207                                 
+JKL672,Honda CR-V,2021-01-26,verde agua,1266674                                    
+MNB710,Mazda CX-5,2022-06-18,lila,1273497                                          
+NHB268,Mazda CX-9,2022-04-11,turquesa claro,695320                                 
+YUI594,Kia Telluride,2021-11-08,azul claro gris,1476917                            
+PLO840,Kia Stinger,2019-08-28,rojo ladrillo,1116272                                
+QWE275,Hyundai Sonata,2020-02-07,azul oscuro verdoso,735001                        
+RTY701,Hyundai Palisade,2022-09-12,purpura,1282033                                 
+ASD526,NissanMaxima,2021-03-08,amarillo verdoso,1309881                           
+DBC297,NissanAltima,2021-10-17,rojo rubi,1461452                                  
+FGH632,Nissan Rogue,2019-05-02,azul oscuro brillante,1330805                       
+GFD418,Volkswagen Golf,2022-12-25,gris plateado,886739                             
+HGF753,Volkswagen Atlas,2020-06-19,verde claro,1307901                             
+JHG490,Subaru Outback,2020-01-07,rosa intenso,757244                               
+KJH728,Subaru Forester,2021-11-21,azul electrico,1443380                           
+LKJ865,Subaru Nigth,2019-08-20,verde oscuro oliva,1298093                          
+MNB105,Lexus ES,2022-04-22,amarillo claro,606355

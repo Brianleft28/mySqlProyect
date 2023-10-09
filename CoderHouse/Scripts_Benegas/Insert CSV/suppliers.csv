@@ -1,0 +1,102 @@
+cod_car,name_supplier,adress 				
+KAW927,Bosch Automotive,Calle del Sol 1234                
+JYZ034,Denso Corporation,Avenida de la Luna 567           
+QOB385,Magna International Inc,Carrera del Arcoíris 890  
+VHC782,Aisin Seiki Co Ltd,Callejón de los Sueños 4321   
+PMR469,Continental AG,Avenida del Dragón 987              
+GKY156,ZF Friedrichshafen AG,Calle del Unicornio 6543     
+RXJ752,Valeo SA,Carrera de las Estrellas 210            
+FBU824,Hella KGaA Hueck & Co,Callejón de la Magia 9876   
+NSQ219,Hyundai Mobis Co Ltd,Avenida de los Cuentos 543  
+DPG637,Robert Bosch GmbH,Calle del Arco Iris 6789         
+BNC896,Faurecia SA,Birch Street 1234                    
+XIL593,Lear Corporation,Oak Avenue 5678                   
+ZPF470,Panasonic Corporation,Maple Court 9101             
+LXM309,Delphi Automotive PLC,Elm Lane 2345                
+WVT714,BorgWarner Inc,Pine Road 6789                     
+EJT632,Aptiv PLC,Cedar Lane 1234                          
+ADF881,Hitachi Automotive Systems Ltd,Spruce Street 5678 
+TKG453,Visteon Corporation,Fir Avenue 9101                
+HMQ268,Yazaki Corporation,Redwood Court 2345              
+UYO527,Calsonic Kansei Corporation,Cypress Lane 6789      
+CEN746,JTEKT Corporation,Sycamore Road 1234               
+IRL971,NSK Ltd,Chestnut Lane 5678                        
+OUX842,Continental Automotive GmbH,Walnut Street 9101     
+MWP195,GKN Automotive Limited,Birch Avenue 2345           
+YBN406,MAHLE GmbH,Oak Court 6789                          
+SVD053,Schaeffler AG,Maple Lane 1234                      
+KJH631,Akebono Brake Industry Co Ltd,Elm Road 5678      
+QPL749,Tenneco Inc,Pine Street 9101                      
+FXR287,Sumitomo Electric Industries Ltd,Cedar Avenue 2345
+NVU514,Federal-Mogul LLC,Spruce Lane 6789                 
+GDO426,Nisshinbo Holdings Inc,Fir Road 1234              
+RXZ763,Eaton Corporation plc,Redwood Court 5678           
+WSL350,Linamar Corporation,Cypress Street 9101            
+BFT691,Bridgestone Corporation,Sycamore Avenue 2345       
+XPU507,Goodyear Tire and Rubber Company,Chestnut Lane 6789
+LME864,Michelin,Walnut Road 1234                          
+ZNG583,Pirelli and C Spa,Birch Street 5678              
+JCR240,Continental Tire the Americas LLC,Oak Avenue 9101  
+UHK962,Yokohama Rubber Co Ltd,Maple Court 2345          
+DOA508,Hankook Tire Co Ltd,Elm Lane 6789                
+VJT357,Toyo Tire & Rubber Co Ltd,Pine Road 1234         
+NIF841,Cooper Tire & Rubber Company,Cedar Lane 5678       
+EYG526,Kumho Tire Co Inc,Spruce Street 9101             
+TYO609,Continental Tire Canada Inc,Fir Avenue 2345       
+AHQ743,Nexen Tire Corporation,Redwood Court 6789            
+KZW312,MRF Limited,Cypress Lane 1234                        
+SXL465,Apollo Tyres Ltd,Sycamore Road 5678                 
+PWB238,CEAT Limited,Chestnut Lane 9101                      
+CDM179,BFGoodrich,Walnut Street 2345                        
+IPU970,Dunlop,Birch Avenue 6789                             
+FRT548,Honda,Oak Court 1234                                 
+JKL469,General Motors,Maple Lane 5678                       
+XGB257,Nissan,Elm Road 9101                                 
+QWE810,BMW,Pine Street 2345                                 
+DBC739,Volkswagen,Cedar Avenue 6789                         
+MNP691,Mercedes-Benz,Spruce Lane 1234                       
+SDF143,Hyundai,Fir Road 5678                                
+UIO256,Kia,Redwood Court 9105                               
+VBN782,Tesla,Cypress Street 2345                            
+ZXC467,Fiat Chrysler Automobiles,Sycamore Avenue 6789       
+RTY934,Mazda,Chestnut Lane 1234                             
+JHG506,Volvo,Walnut Road 5678                               
+QAZ147,Mitsubishi,Birch Street 9101                         
+MNB276,Subaru,Oak Avenue 2345                               
+YUI935,Porsche,Maple Court 6789                             
+PLO768,Ferrari,Elm Lane 1234                             
+ASD243,Lamborghini,Pine Road 5678                           
+GFD851,Aston Martin,Cedar Lane 9101                         
+KJH369,Bentley,Spruce Street 2345                           
+HGF529,Rolls-Royce,Fir Avenue 6789                    
+LKJ307,Bugatti,Redwood Court 1234                           
+QWE769,McLaren,Cypress Lane 5678                            
+NHB543,Alfa Romeo,Sycamore Road 9101                        
+PLO329,Audi,Chestnut Lane 2345                              
+ZXC187,Lotus,Walnut Street 6789                             
+ASD746,Maserati,Birch Avenue 1234                           
+FGH982,Pagani,Oak Court 5678                               
+KJH605,Koenigsegg,Maple Lane 9101                           
+LKJ496,Ram,Elm Road 2345                                    
+QAZ873,GMC,Pine Street 6789                                
+UIO468,Chevrolet,Cedar Avenue 1234                          
+VBN956,Buick,Spruce Lane 5678                               
+GFD314,Cadillac,Fir Road 9101                              
+HGF980,Jeep,Redwood Court 2345                              
+JKL672,Dodge,Cypress Street 6789                            
+MNB710,Chrysler,Sycamore Avenue1234                         
+NHB268,Infiniti,Chestnut Lane 5678                          
+YUI594,Acura,Walnut Road 9101                              
+PLO840,Lexus,Birch Street 2345                              
+QWE275,Scion,Oak Avenue 6789                               
+RTY701,Smart,Maple Court 1234                               
+ASD526,Mini,Elm Lane 5678                                 
+DBC297,Saab,Pine Road 9101                                  
+FGH632,Hummer,Cedar Lane 2345                               
+GFD418,Saturn,Spruce Street 6789                            
+HGF753,Pontiac,Fir Avenue 1234                            
+JHG490,Oldsmobile,Redwood Court 5678                        
+KJH728,Isuzu,Cypress Lane 9101                              
+LKJ865,Toyota,Sycamore Road 2345                            
+MNB105,Ford,Bruce Muela 1324                           
+                                                              
