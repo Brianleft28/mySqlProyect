@@ -1,4 +1,4 @@
-CONTRASEÑA SERVER: 1324merlogomes1324
+CONTRASEÑA SERVER: hjghjhg
 
 USER 'brian2'@'localhost' contraseña = 'CONTRASENIA2'
 USER brian@localhost contraseña = 'CONTRASENIA1'
